@@ -1,6 +1,6 @@
 {
   "name": "@lainnao/random-chord-progression-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A random chord progression generator for testing purposes",
   "module": "dist/index.esm.js",
   "main": "dist/index.js",
